@@ -175,4 +175,4 @@ for Work in details['WorkExp']:
     
 
 
-pdf.output("Personal_Infromation_Of_Min.pdf")
+pdf.output("MIN_KIMHYUN.pdf")
