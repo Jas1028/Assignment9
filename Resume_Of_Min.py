@@ -16,16 +16,16 @@ PersonalInformations = [
                 'Linkedin': "linkedin.com/in/Kim_Min"
             }
         ],
-        'Education': "Educational Background:",
+        'Education': "EDUCATIONAL BACKGROUND",
         'EducationBackG':[
             {
-                'Elem': "Elementary",
+                'Elem': "ELEMENTARY",
                 'ElemSchool': "Aukamm Elementary School",
                 'ESchoolYear': "2000-2006",
-                'Sec': "Secondary",
+                'Sec': "SECONDARY",
                 'SecSchool': "Joongdong High School",
                 'SSchoolYear': "2006-2011",
-                'Ter': "Tertiary",
+                'Ter': "TERTIARY",
                 'TerSchool': "Polytechnic University of the Philippines",
                 'TSchoolYear': "2011-2014",
                 'Course': "Bachelor of Science in Computer Engineering"
@@ -39,8 +39,10 @@ PersonalInformations = [
             }
         ],
         'CareerObj': "CAREER OBJECTIVE",
-        'CareerObjective': " As a Python programmer, I would love to say that I have a lot of knowledge that I can use in creating new datas in Python and I am willing to continue developing my skills and adapt new learnings that I may use in future purposes. I am ready to give my best in this field",
-        'WorkExp': "WORK EXPERIENCE",
+        'CareerObjective': " As a Python programmer, I would love to say that I have a lot of knowledge that I can use in creating", 
+        'Continuation': "new datas in Python and I am willing to continue developing my skills and adapt new learnings that I", 
+        'Cont': "may use in future purposes. I am ready to give my best in this field",
+        'WorkExperience': "WORK EXPERIENCE",
         'WorkExp':[
             {
                 'Work': "Python Developer",
